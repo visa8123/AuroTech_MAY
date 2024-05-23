@@ -16,4 +16,13 @@ The ATMs in our cities are built on Python, as we have all seen them. It is a co
 
 • Quit
 
+
+My Second Task : QR CODE GENERATOR USING PYTHON
+
+Develop a Python script that generates QR codes for provided input data, such as URLs, text, or other information, allowing users to easily encode and decode information using QR technology. To generate QR codes in Python, you can use the 'qrcode' library. 
+
+
+
+
+
  
