@@ -21,6 +21,19 @@ My Second Task : QR CODE GENERATOR USING PYTHON
 
 Develop a Python script that generates QR codes for provided input data, such as URLs, text, or other information, allowing users to easily encode and decode information using QR technology. To generate QR codes in Python, you can use the 'qrcode' library. 
 
+My Third Task : TIMER USING PYTHON
+
+Your task is to develop a Python program that functions as a timer. This timer will have the following features:
+
+ Countdown Timer
+   
+ Stopwatch
+   
+ User Interface
+   
+ Accuracy 
+
+
 
 
 
